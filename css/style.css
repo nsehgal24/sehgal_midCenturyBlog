@@ -1,0 +1,111 @@
+html{
+background-color: #F28B50;
+}
+
+body{
+  background-color: #D0E5F2;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+nav{
+  margin: auto;
+  padding-top: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #047F8C;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  font-size: 37px;
+  color: #3A400C;
+}
+
+.wrap{
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+section img{
+display: block;
+margin: auto;
+}
+
+.wrap p{
+  text-align: justify;
+}
+
+img{
+  width: 80%;
+  height: 80%;
+}
+
+h2{
+  font-family: 'Lato', sans-serif;
+  font-size: 22.5px;
+  font-weight: 700;
+}
+
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  color: #047F8C;
+  padding-top: 2%;
+  padding-bottom: 1%;
+}
+
+p{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+aside img{
+  width: 30%;
+  height: 30%;
+}
+
+ul{
+  font-family: 'Josefin Sans',sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+
+footer{
+  padding: 2%;
+  text-align: center;
+  background-color: #04ADBF;
+  text-transform: uppercase;
+  font-family: 'Josefin Sans',sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+footer p{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  text-transform: lowercase;
+}
